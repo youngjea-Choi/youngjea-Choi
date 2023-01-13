@@ -1,8 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=SHARK&color=auto&height=200&section=header&text=HELLO&fontSize=90" />
-##CHOI YOUNG JEA 😉
+# CHOI YOUNG JEA 😉
 
 
-#💪Skills!!
+# 💪Skills!!
 ### Platforms & Languages
 ![CSharp](https://img.shields.io/badge/CSharp-239120.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/MicrosoftSQLServer-CC2927.svg?&style=for-the-badge&logo=Java&logoColor=white)
