@@ -7,7 +7,7 @@
 # 💪Skills!!
 ### Platforms & Languages
 ![CSharp](https://img.shields.io/badge/CSharp-239120.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft SQL Server-#CC2927.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/MicrosoftSQLServer-#CC2927.svg?&style=for-the-badge&logo=Java&logoColor=white)
 
 
 ### Tools
